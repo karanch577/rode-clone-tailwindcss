@@ -1,4 +1,4 @@
-# Project9 [live link](https://rode-clone-karanch.netlify.app/)
+# Rode [live link](https://rode-clone-karanch.netlify.app/)
 
 ## By - Karan Chauhan
 
